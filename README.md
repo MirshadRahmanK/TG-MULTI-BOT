@@ -15,7 +15,7 @@ This is a pyrogram based telagram bot. Telagram user id, info, telagraph, sticke
 
 ⚠️ Edit readme.md templates= link to your repo link and deploy  🙏 avoid source code violation 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/TG-MULTI-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MirshadRahmanK/TG-MULTI-BOT.git)
 
 
 ## Deploy on railway
